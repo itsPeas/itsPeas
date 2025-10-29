@@ -2,7 +2,6 @@
 - 👀 I’m interested in: developing games and stuff
 - 🌱 I’m currently learning: developing :D
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i used to do pvz modding
 
 <!---
 itsPeas/itsPeas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
